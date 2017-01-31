@@ -1,2 +1,6 @@
-# fractals
-Fractal generated used as a loader
+# Fractals
+
+### Sierpenski
+Fractal used as loading animation for games and websites
+
+
